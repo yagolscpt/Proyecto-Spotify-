@@ -1,0 +1,10 @@
+C:\Users\Alumno\Desktop\curso 18-19\Y-Music\fichero2\bin\Debug\fichero2.exe.config
+C:\Users\Alumno\Desktop\curso 18-19\Y-Music\fichero2\bin\Debug\fichero2.exe
+C:\Users\Alumno\Desktop\curso 18-19\Y-Music\fichero2\bin\Debug\fichero2.pdb
+C:\Users\Alumno\Desktop\curso 18-19\Y-Music\fichero2\bin\Debug\fichero2.xml
+C:\Users\Alumno\Desktop\curso 18-19\Y-Music\fichero2\obj\Debug\fichero2.Resources.resources
+C:\Users\Alumno\Desktop\curso 18-19\Y-Music\fichero2\obj\Debug\fichero2.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\curso 18-19\Y-Music\fichero2\obj\Debug\fichero2.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\curso 18-19\Y-Music\fichero2\obj\Debug\fichero2.exe
+C:\Users\Alumno\Desktop\curso 18-19\Y-Music\fichero2\obj\Debug\fichero2.xml
+C:\Users\Alumno\Desktop\curso 18-19\Y-Music\fichero2\obj\Debug\fichero2.pdb
